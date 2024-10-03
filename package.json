@@ -4,7 +4,10 @@
   "description": "This is a lesson task for cypress testing - end 2 end testing in workflow module 2.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test-e2e-cli",
+    "test-e2e": "cypress open",
+    "test-e2e-report": "cypress run --reporter mochawesome",
+    "test-e2e-cli": "cypress run"
   },
   "repository": {
     "type": "git",
