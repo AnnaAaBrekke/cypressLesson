@@ -1,0 +1,26 @@
+{
+  "name": "end2end",
+  "version": "0.0.1",
+  "description": "This is a lesson task for cypress testing - end 2 end testing in workflow module 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaAaBrekke/cypressLesson.git"
+  },
+  "keywords": [
+    "testing",
+    "lesson",
+    "html",
+    "js",
+    "cypress"
+  ],
+  "author": "Anna Aasprong Brekke <annabrekke98@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnnaAaBrekke/cypressLesson/issues"
+  },
+  "homepage": "https://github.com/AnnaAaBrekke/cypressLesson#readme"
+}
